@@ -2,6 +2,8 @@
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
+## Demo: https://zhuddle-landing-page.netlify.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
