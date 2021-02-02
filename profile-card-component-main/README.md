@@ -2,6 +2,8 @@
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
+## Demo: https://zprofile-card-component.netlify.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
